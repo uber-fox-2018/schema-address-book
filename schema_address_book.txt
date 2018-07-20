@@ -1,1 +1,3 @@
 Copy your URL to screenshot here
+
+Table contact memiliki banyak group dan begitupun sebaliknya maka kita siapkan table peghubung dan menaruh masing2 id tersebut sebagai fk di table yg baru.
