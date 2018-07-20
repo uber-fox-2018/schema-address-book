@@ -1,1 +1,7 @@
-Copy your URL to screenshot here
+https://imgur.com/a/9Yh4iHY
+
+## Di gambar terdapat 3 table, yaitu groups, groups' contacts, dan contacts:
+## Tabel groups hanya berisi data nama2 grup
+## Tabel contacts berisi data identitas seperti: nama, perusahaan, nomor telepon dan email
+## Tabel groups' contacts merupakan conjunction karena ia berisi data nama2 grup beserta id kontak mana saja yg grup tsb miliki
+## Relasi antar tabel sesuai pada diagram.
